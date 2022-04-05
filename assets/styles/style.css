@@ -1,0 +1,161 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.modal-content {
+    padding: 0px 20px;
+    background: rgb(0, 0, 0);
+    border: 1px solid rgb(254, 40, 214);
+    border-radius: 12px;
+    box-shadow: rgb(254 40 214) 1px 1px 0px inset;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 100%;
+    min-height: 0px;
+}
+
+.modal-body .modal-start-text-h2 {
+    -webkit-box-align: center;
+    align-items: center;
+    color: rgb(156, 40, 236);
+    display: flex;
+    font-size: 20px;
+    font-weight: 700;
+    height: 72px;
+    -webkit-box-pack: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.modal-start-body {
+    padding: 24px;
+}
+
+.modal-start-body-logo {
+    background-color: white;
+    font-size: 36px;
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+    -webkit-box-align: center;
+    align-items: center;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-shadow: rgb(156 40 236) 4px 4px 4px inset, rgb(156 40 236) -6px -6px 12px inset;
+    margin: 0px auto 16px;
+}
+
+.modal-start-body-body {
+    color: rgb(156, 40, 236);
+    font-size: 18px;
+    font-weight: 700;
+    padding: 24px;
+    text-align: center;
+}
+
+.modal-start-body-footer {
+    -webkit-box-align: center;
+    align-items: center;
+    background-color: rgb(254, 40, 214);
+    border: 0px;
+    border-radius: 12px;
+    box-shadow: rgb(0 0 0 / 30%) 8px 8px 12px;
+    color: white;
+    cursor: pointer;
+    display: flex;
+    font-size: 16px;
+    font-weight: 700;
+    height: 56px;
+    -webkit-box-pack: center;
+    justify-content: center;
+    outline: none;
+    padding-left: 24px;
+    padding-right: 24px;
+    width: 100%;
+}
+
+.modaly-body-two {
+    padding: 24px;
+}
+
+.modal-start-body {
+    flex-basis: calc(50% - 8px);
+}
+
+.modaly-starty-body {
+    border-radius: 12px;
+    display: flex;
+    flex: 1 1 0%;
+    flex-direction: column;
+    box-shadow: rgb(254 40 214 / 55%) 5px 5px 50px 3px;
+}
+
+.model-start-first {
+    display: flex;
+    flex: 1 1 0%;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.model-start-second {
+    margin-top: 20px;
+    display: flex;
+    flex: 1 1 0%;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.model-start-third {
+    margin-top: 20px;
+    display: flex;
+    flex: 1 1 0%;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.model-start-fourth {
+    margin-top: 20px;
+    display: flex;
+    flex: 1 1 0%;
+    flex-direction: column;
+    padding: 16px;
+}
+
+.modal-body-button {
+    -webkit-box-align: center;
+    align-items: center;
+    background-color: rgba(254, 40, 214, 0);
+    display: flex;
+    margin: 0px;
+    padding: 24px;
+}
+
+.modaly-body_buttony {
+    flex: 1 1 0%;
+}
+
+.sc-QtEoG {
+    -webkit-box-align: center;
+    align-items: center;
+    background-color: rgb(254, 40, 214);
+    border: 0px;
+    border-radius: 12px;
+    box-shadow: rgb(0 0 0 / 30%) 8px 8px 12px;
+    color: white;
+    cursor: pointer;
+    display: flex;
+    font-size: 16px;
+    font-weight: 700;
+    height: 56px;
+    -webkit-box-pack: center;
+    justify-content: center;
+    outline: none;
+    padding-left: 24px;
+    padding-right: 24px;
+    width: 100%;
+}

@@ -1,0 +1,1124 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=5.9.2
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\poppins\v19\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\poppins\v19\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\poppins\v19\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\poppins\v19\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\poppins\v19\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\poppins\v19\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\poppins\v19\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\poppins\v19\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\poppins\v19\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\poppins\v19\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\poppins\v19\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\poppins\v19\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\poppins\v19\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\poppins\v19\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\roboto\v29\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\roboto\v29\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\roboto\v29\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\roboto\v29\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\roboto\v29\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\roboto\v29\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\roboto\v29\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\roboto\v29\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\roboto\v29\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\roboto\v29\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\roboto\v29\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\roboto\v29\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://www.bloktopia.com/
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\index.htm
+Content Type: text/html
+
+Uri: https://www.bloktopia.com/comments/feed/
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.bloktopia.com/feed/
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.bloktopia.com/jobe/
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\jobe\index.htm
+Content Type: text/html
+
+Uri: https://www.bloktopia.com/level-1/
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\level-1\index.htm
+Content Type: text/html
+
+Uri: https://www.bloktopia.com/level-11-15/
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\level-11-15\index.htm
+Content Type: text/html
+
+Uri: https://www.bloktopia.com/level-16-20/
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\level-16-20\index.htm
+Content Type: text/html
+
+Uri: https://www.bloktopia.com/level-2-5/
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\level-2-5\index.htm
+Content Type: text/html
+
+Uri: https://www.bloktopia.com/level-21/
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\level-21\index.htm
+Content Type: text/html
+
+Uri: https://www.bloktopia.com/level-6/
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\level-6\index.htm
+Content Type: text/html
+
+Uri: https://www.bloktopia.com/level-7-10/
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\level-7-10\index.htm
+Content Type: text/html
+
+Uri: https://www.bloktopia.com/nft-pricing-map/
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\nft-pricing-map\index.htm
+Content Type: text/html
+
+Uri: https://www.bloktopia.com/staking-live/
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\staking-live\index.htm
+Content Type: text/html
+
+Uri: https://www.bloktopia.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.5.6
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.5.6
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://www.bloktopia.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.5.6
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://www.bloktopia.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.5.6
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://www.bloktopia.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.5.6
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/plugins/elementor/assets/lib/eicons/css/A.elementor-icons.min.css,qver=5.14.0.pagespeed.cf.nUl_-Xodb6.css
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\elementor\assets\lib\eicons\css\A.elementor-icons.min.css,qver=5.14.0.pagespeed.cf.nUl_-Xodb6.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.14.0
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.14.0
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.bloktopia.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.14.0
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bloktopia.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.14.0
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://www.bloktopia.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.14.0
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://www.bloktopia.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.14.0
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://www.bloktopia.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.bloktopia.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.bloktopia.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bloktopia.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.bloktopia.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://www.bloktopia.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.bloktopia.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.bloktopia.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.bloktopia.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bloktopia.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://www.bloktopia.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://www.bloktopia.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.bloktopia.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://www.bloktopia.com/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.6.9
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\header-footer-elementor\assets\css\header-footer-elementor.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/plugins/header-footer-elementor/inc/js/frontend.js,qver=1.6.9.pagespeed.jm.HeCldKZcmS.js
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\header-footer-elementor\inc\js\frontend.js,qver=1.6.9.pagespeed.jm.HeCldKZcmS.js
+Content Type: application/javascript
+
+Uri: https://www.bloktopia.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/A.frontend.css,qver=1.6.9.pagespeed.cf.qrSlMbAbJH.css
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\header-footer-elementor\inc\widgets-css\A.frontend.css,qver=1.6.9.pagespeed.cf.qrSlMbAbJH.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.6.9
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\header-footer-elementor\inc\widgets-css\frontend.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/plugins/qi-addons-for-elementor/assets/css/grid.min.css?ver=5.9.2
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\qi-addons-for-elementor\assets\css\grid.min.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/plugins/qi-addons-for-elementor/assets/css/helper-parts.min.css?ver=5.9.2
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\qi-addons-for-elementor\assets\css\helper-parts.min.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/plugins/qi-addons-for-elementor/assets/css/main.min.css?ver=5.9.2
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\qi-addons-for-elementor\assets\css\main.min.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/plugins/qi-addons-for-elementor/assets/js/main.min.js?ver=5.9.2
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\qi-addons-for-elementor\assets\js\main.min.js
+Content Type: application/javascript
+
+Uri: https://www.bloktopia.com/wp-content/plugins/qi-addons-for-elementor/assets/plugins/swiper/A.swiper.min.css,qver=5.9.2.pagespeed.cf.pBQpek-FPR.css
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\qi-addons-for-elementor\assets\plugins\swiper\A.swiper.min.css,qver=5.9.2.pagespeed.cf.pBQpek-FPR.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/plugins/qi-addons-for-elementor/assets/plugins/swiper/swiper.min.css?ver=5.9.2
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\qi-addons-for-elementor\assets\plugins\swiper\swiper.min.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/plugins/qi-addons-for-elementor/inc/plugins/elementor/assets/js/elementor.js?ver=5.9.2
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\plugins\qi-addons-for-elementor\inc\plugins\elementor\assets\js\elementor.js
+Content Type: application/javascript
+
+Uri: https://www.bloktopia.com/wp-content/themes/twentytwentyone/A.style.css,qver=1.4.pagespeed.cf.vKU2jOnQrp.css
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\themes\twentytwentyone\A.style.css,qver=1.4.pagespeed.cf.vKU2jOnQrp.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/themes/twentytwentyone/assets/css/print.css?ver=1.4
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\themes\twentytwentyone\assets\css\print.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/themes/twentytwentyone/assets/js/primary-navigation.js?ver=1.4
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\themes\twentytwentyone\assets\js\primary-navigation.js
+Content Type: application/javascript
+
+Uri: https://www.bloktopia.com/wp-content/themes/twentytwentyone/assets/js/responsive-embeds.js?ver=1.4
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\themes\twentytwentyone\assets\js\responsive-embeds.js
+Content Type: application/javascript
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/07/5fc4b5bde4b22250ea7efaec_logo-zok.svg
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\07\5fc4b5bde4b22250ea7efaec_logo-zok.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/07/Anzu-logo_new.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\07\Anzu-logo_new.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/07/Artboard-1.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\07\Artboard-1.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/07/Blocktopia-BLACK.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\07\Blocktopia-BLACK.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/07/BLOK-ROADMAP-V@2.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\07\BLOK-ROADMAP-V@2.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/07/BLOKTOPIA-2-1.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\07\BLOKTOPIA-2-1.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/07/BLOKTOPIA-8.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\07\BLOKTOPIA-8.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/07/BLOKTOPIA-9.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\07\BLOKTOPIA-9.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/07/BLOKTOPIA-CREATE.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\07\BLOKTOPIA-CREATE.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/07/BLOKTOPIA-EARN.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\07\BLOKTOPIA-EARN.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/07/BLOKTOPIA-EARNING-OPPORTUNITIES.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\07\BLOKTOPIA-EARNING-OPPORTUNITIES.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/07/Comp-1-1.mp4
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\07\Comp-1-1.mp4
+Content Type: video/mp4
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/07/Comp-1_3-1.mp4
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\07\Comp-1_3-1.mp4
+Content Type: video/mp4
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/07/cropped-BLOK-FAV-180x180.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\07\cropped-BLOK-FAV-180x180.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/07/cropped-BLOK-FAV-192x192.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\07\cropped-BLOK-FAV-192x192.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/07/cropped-BLOK-FAV-32x32.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\07\cropped-BLOK-FAV-32x32.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/07/DEFAULT_-Logo-Gradient.svg
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\07\DEFAULT_-Logo-Gradient.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/07/polygon-logo-inverted.svg
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\07\polygon-logo-inverted.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/07/SKIN-1-copy-3.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\07\SKIN-1-copy-3.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/07/xBLOKTOPIA-10.png.pagespeed.ic.LCiDu3cKJJ.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\07\xBLOKTOPIA-10.png.pagespeed.ic.LCiDu3cKJJ.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/07/xBLOKTOPIA-MARKETPLACE-copy-3.png.pagespeed.ic.KLwe3RApXB.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\07\xBLOKTOPIA-MARKETPLACE-copy-3.png.pagespeed.ic.KLwe3RApXB.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/07/xBLOKTOPIA-MARKETPLACE-copy-5.png.pagespeed.ic.6OhgVCKC4G.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\07\xBLOKTOPIA-MARKETPLACE-copy-5.png.pagespeed.ic.6OhgVCKC4G.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/07/xBLOKTOPIA-MARKETPLACE-copy.png.pagespeed.ic.hkyNmr_HCu.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\07\xBLOKTOPIA-MARKETPLACE-copy.png.pagespeed.ic.hkyNmr_HCu.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/07/xJS02-Skyvegas-casino-logo,403x.png.pagespeed.ic.xB8qG1PjJ6.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\07\xJS02-Skyvegas-casino-logo,403x.png.pagespeed.ic.xB8qG1PjJ6.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/08/BLOKTOPIA-PARTNERS-copy-1.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\08\BLOKTOPIA-PARTNERS-copy-1.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/08/INVESTORS-BLOK1.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\08\INVESTORS-BLOK1.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/08/INVESTORS-BLOK3.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\08\INVESTORS-BLOK3.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/08/xINVESTORS-BLOK5.png.pagespeed.ic.YhNSVW22yl.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\08\xINVESTORS-BLOK5.png.pagespeed.ic.YhNSVW22yl.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/Artboard-1-copy-3@1.5x-150x150.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\Artboard-1-copy-3@1.5x-150x150.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/Artboard-1-copy-3@1.5x-300x300.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\Artboard-1-copy-3@1.5x-300x300.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/Artboard-1-copy-3@1.5x-768x768.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\Artboard-1-copy-3@1.5x-768x768.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/Artboard-1-copy-5@1.5x-150x150.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\Artboard-1-copy-5@1.5x-150x150.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/Artboard-1-copy-5@1.5x-300x300.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\Artboard-1-copy-5@1.5x-300x300.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/Artboard-1-copy-5@1.5x-768x768.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\Artboard-1-copy-5@1.5x-768x768.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/Artboard-1-copy-6@1.5x-150x150.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\Artboard-1-copy-6@1.5x-150x150.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/Artboard-1-copy-6@1.5x-300x300.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\Artboard-1-copy-6@1.5x-300x300.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/Artboard-1-copy-6@1.5x-768x768.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\Artboard-1-copy-6@1.5x-768x768.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/Artboard-1-copy@1.5x-150x150.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\Artboard-1-copy@1.5x-150x150.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/Artboard-1-copy@1.5x-300x300.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\Artboard-1-copy@1.5x-300x300.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/Artboard-1-copy@1.5x-768x768.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\Artboard-1-copy@1.5x-768x768.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/BLOKTOPIA-15-copy.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\BLOKTOPIA-15-copy.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/BLOKTOPIA-15-copy@0.75x.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\BLOKTOPIA-15-copy@0.75x.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/BLOKTOPIA-3-267x300.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\BLOKTOPIA-3-267x300.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/BLOKTOPIA-3-768x864.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\BLOKTOPIA-3-768x864.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/BLOKTOPIA-3-910x1024.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\BLOKTOPIA-3-910x1024.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/BLOKTOPIA-3.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\BLOKTOPIA-3.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/INVESTORS-BLOK10-10.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\INVESTORS-BLOK10-10.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/INVESTORS-BLOK10-11.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\INVESTORS-BLOK10-11.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/INVESTORS-BLOK10-13.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\INVESTORS-BLOK10-13.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/INVESTORS-BLOK10-14.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\INVESTORS-BLOK10-14.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/logo-white-color-web-06.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\logo-white-color-web-06.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/logo-white-color-web-07.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\logo-white-color-web-07.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/logo-white-color-web-09.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\logo-white-color-web-09.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/logo-white-color-web-15.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\logo-white-color-web-15.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/logo-white-color-web-16.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\logo-white-color-web-16.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/logo-white-color-web-17.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\logo-white-color-web-17.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/xArtboard-1-copy,401.5x.png.pagespeed.ic.pGP8tLkqr2.jpg
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\xArtboard-1-copy,401.5x.png.pagespeed.ic.pGP8tLkqr2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/xArtboard-1-copy-3,401.5x.png.pagespeed.ic.PC3vs0wXVG.jpg
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\xArtboard-1-copy-3,401.5x.png.pagespeed.ic.PC3vs0wXVG.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/xArtboard-1-copy-5,401.5x.png.pagespeed.ic.YJJVyUzym8.jpg
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\xArtboard-1-copy-5,401.5x.png.pagespeed.ic.YJJVyUzym8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/09/xArtboard-1-copy-6,401.5x.png.pagespeed.ic.GhU6enTbJo.jpg
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\09\xArtboard-1-copy-6,401.5x.png.pagespeed.ic.GhU6enTbJo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/bas@3x-1024x293.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\bas@3x-1024x293.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/bas@3x-1536x440.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\bas@3x-1536x440.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/bas@3x-1568x449.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\bas@3x-1568x449.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/bas@3x-2048x587.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\bas@3x-2048x587.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/bas@3x-300x86.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\bas@3x-300x86.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/bas@3x-768x220.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\bas@3x-768x220.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/bas@3x.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\bas@3x.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/Bloktopia-Lightpaper-1-1.pdf
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\Bloktopia-Lightpaper-1-1.pdf
+Content Type: application/pdf
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/BLOKTOPIA-P-1.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\BLOKTOPIA-P-1.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/BLOKTOPIA-P.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\BLOKTOPIA-P.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/Bloktopiatrailer_Compressed.mp4
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\Bloktopiatrailer_Compressed.mp4
+Content Type: video/mp4
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-11-15@4x-1024x886.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-11-15@4x-1024x886.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-11-15@4x-1536x1329.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-11-15@4x-1536x1329.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-11-15@4x-1568x1357.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-11-15@4x-1568x1357.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-11-15@4x-2048x1772.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-11-15@4x-2048x1772.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-11-15@4x-300x260.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-11-15@4x-300x260.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-11-15@4x-768x665.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-11-15@4x-768x665.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-11-15@4x.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-11-15@4x.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-16-20@4x-1024x886.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-16-20@4x-1024x886.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-16-20@4x-1536x1329.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-16-20@4x-1536x1329.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-16-20@4x-1568x1357.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-16-20@4x-1568x1357.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-16-20@4x-2048x1772.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-16-20@4x-2048x1772.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-16-20@4x-300x260.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-16-20@4x-300x260.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-16-20@4x-768x665.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-16-20@4x-768x665.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-16-20@4x.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-16-20@4x.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-1@4x-1024x886.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-1@4x-1024x886.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-1@4x-1536x1329.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-1@4x-1536x1329.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-1@4x-1568x1357.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-1@4x-1568x1357.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-1@4x-2048x1772.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-1@4x-2048x1772.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-1@4x-300x260.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-1@4x-300x260.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-1@4x-768x665.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-1@4x-768x665.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-1@4x.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-1@4x.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-2-5@4x-1024x886.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-2-5@4x-1024x886.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-2-5@4x-1536x1329.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-2-5@4x-1536x1329.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-2-5@4x-1568x1357.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-2-5@4x-1568x1357.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-2-5@4x-2048x1772.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-2-5@4x-2048x1772.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-2-5@4x-300x260.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-2-5@4x-300x260.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-2-5@4x-768x665.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-2-5@4x-768x665.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-2-5@4x.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-2-5@4x.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-21@4x-1024x886.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-21@4x-1024x886.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-21@4x-1536x1329.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-21@4x-1536x1329.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-21@4x-1568x1357.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-21@4x-1568x1357.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-21@4x-2048x1772.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-21@4x-2048x1772.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-21@4x-300x260.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-21@4x-300x260.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-21@4x-768x665.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-21@4x-768x665.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-21@4x.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-21@4x.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-6@4x-1024x886.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-6@4x-1024x886.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-6@4x-1536x1329.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-6@4x-1536x1329.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-6@4x-1568x1357.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-6@4x-1568x1357.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-6@4x-2048x1772.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-6@4x-2048x1772.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-6@4x-300x260.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-6@4x-300x260.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-6@4x-768x665.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-6@4x-768x665.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-6@4x.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-6@4x.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-7-10@4x-1024x886.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-7-10@4x-1024x886.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-7-10@4x-1536x1329.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-7-10@4x-1536x1329.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-7-10@4x-1568x1357.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-7-10@4x-1568x1357.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-7-10@4x-2048x1772.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-7-10@4x-2048x1772.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-7-10@4x-300x260.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-7-10@4x-300x260.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-7-10@4x-768x665.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-7-10@4x-768x665.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/10/L-7-10@4x.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\10\L-7-10@4x.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/11/Artboard-121-300x153.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\11\Artboard-121-300x153.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/11/Artboard-121.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\11\Artboard-121.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/11/bas-1024x99.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\11\bas-1024x99.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/11/bas-1536x149.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\11\bas-1536x149.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/11/bas-300x29.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\11\bas-300x29.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/11/bas.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\11\bas.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/2021/11/xbas-768x74.png.pagespeed.ic.Uf24sxYzeB.png
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\2021\11\xbas-768x74.png.pagespeed.ic.Uf24sxYzeB.png
+Content Type: image/png
+
+Uri: https://www.bloktopia.com/wp-content/uploads/elementor/css/A.global.css,qver=1646835176.pagespeed.cf.nKWGb7c8Jc.css
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\elementor\css\A.global.css,qver=1646835176.pagespeed.cf.nKWGb7c8Jc.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/uploads/elementor/css/A.post-545.css,qver=1646835177.pagespeed.cf.w8Nv9cOWFM.css
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\elementor\css\A.post-545.css,qver=1646835177.pagespeed.cf.w8Nv9cOWFM.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/uploads/elementor/css/global.css?ver=1646835176
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/uploads/elementor/css/post-1145.css?ver=1646835177
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\elementor\css\post-1145.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/uploads/elementor/css/post-122.css?ver=1646835187
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\elementor\css\post-122.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/uploads/elementor/css/post-38.css,qver=1646835652.pagespeed.ce.tydSx1W2VE.css
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\elementor\css\post-38.css,qver=1646835652.pagespeed.ce.tydSx1W2VE.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/uploads/elementor/css/post-5.css?ver=1646835176
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\elementor\css\post-5.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/uploads/elementor/css/post-634.css?ver=1646835220
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\elementor\css\post-634.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/uploads/elementor/css/post-698.css?ver=1646835242
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\elementor\css\post-698.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/uploads/elementor/css/post-704.css?ver=1646836018
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\elementor\css\post-704.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/uploads/elementor/css/post-706.css?ver=1646835393
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\elementor\css\post-706.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/uploads/elementor/css/post-742.css?ver=1646836180
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\elementor\css\post-742.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/uploads/elementor/css/post-767.css?ver=1646835793
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\elementor\css\post-767.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/uploads/elementor/css/post-769.css?ver=1646836145
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\elementor\css\post-769.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/uploads/elementor/css/post-771.css?ver=1646838023
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\elementor\css\post-771.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/uploads/elementor/css/post-773.css?ver=1646835393
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\elementor\css\post-773.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/uploads/elementor/css/post-775.css?ver=1646836073
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\elementor\css\post-775.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-content/uploads/elementor/css/post-956.css?ver=1646835393
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-content\uploads\elementor\css\post-956.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-includes/css/dist/block-library/style.min.css?ver=5.9.2
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://www.bloktopia.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.bloktopia.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.bloktopia.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://www.bloktopia.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://www.bloktopia.com/wp-json/
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://www.bloktopia.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.bloktopia.com%2F
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://www.bloktopia.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.bloktopia.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://www.bloktopia.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.bloktopia.com%2Fjobe%2F
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://www.bloktopia.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.bloktopia.com%2Fjobe%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://www.bloktopia.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.bloktopia.com%2Flevel-1%2F
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://www.bloktopia.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.bloktopia.com%2Flevel-1%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://www.bloktopia.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.bloktopia.com%2Flevel-11-15%2F
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://www.bloktopia.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.bloktopia.com%2Flevel-11-15%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://www.bloktopia.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.bloktopia.com%2Flevel-16-20%2F
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://www.bloktopia.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.bloktopia.com%2Flevel-16-20%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://www.bloktopia.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.bloktopia.com%2Flevel-2-5%2F
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://www.bloktopia.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.bloktopia.com%2Flevel-2-5%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://www.bloktopia.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.bloktopia.com%2Flevel-21%2F
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://www.bloktopia.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.bloktopia.com%2Flevel-21%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://www.bloktopia.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.bloktopia.com%2Flevel-6%2F
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://www.bloktopia.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.bloktopia.com%2Flevel-6%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://www.bloktopia.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.bloktopia.com%2Flevel-7-10%2F
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://www.bloktopia.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.bloktopia.com%2Flevel-7-10%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://www.bloktopia.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.bloktopia.com%2Fnft-pricing-map%2F
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://www.bloktopia.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.bloktopia.com%2Fnft-pricing-map%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://www.bloktopia.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.bloktopia.com%2Fstaking-live%2F
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://www.bloktopia.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.bloktopia.com%2Fstaking-live%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://www.bloktopia.com/wp-json/wp/v2/pages/1145
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\wp\v2\pages\1145
+Content Type: application/json
+
+Uri: https://www.bloktopia.com/wp-json/wp/v2/pages/122
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\wp\v2\pages\122
+Content Type: application/json
+
+Uri: https://www.bloktopia.com/wp-json/wp/v2/pages/634
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\wp\v2\pages\634
+Content Type: application/json
+
+Uri: https://www.bloktopia.com/wp-json/wp/v2/pages/698
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\wp\v2\pages\698
+Content Type: application/json
+
+Uri: https://www.bloktopia.com/wp-json/wp/v2/pages/704
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\wp\v2\pages\704
+Content Type: application/json
+
+Uri: https://www.bloktopia.com/wp-json/wp/v2/pages/742
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\wp\v2\pages\742
+Content Type: application/json
+
+Uri: https://www.bloktopia.com/wp-json/wp/v2/pages/767
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\wp\v2\pages\767
+Content Type: application/json
+
+Uri: https://www.bloktopia.com/wp-json/wp/v2/pages/769
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\wp\v2\pages\769
+Content Type: application/json
+
+Uri: https://www.bloktopia.com/wp-json/wp/v2/pages/771
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\wp\v2\pages\771
+Content Type: application/json
+
+Uri: https://www.bloktopia.com/wp-json/wp/v2/pages/773
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\wp\v2\pages\773
+Content Type: application/json
+
+Uri: https://www.bloktopia.com/wp-json/wp/v2/pages/775
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\wp-json\wp\v2\pages\775
+Content Type: application/json
+
+Uri: https://www.bloktopia.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-204686688-1
+File Name: C:\Downloaded Web Sites\www.bloktopia.com\gtag\js
+Content Type: application/javascript
+
